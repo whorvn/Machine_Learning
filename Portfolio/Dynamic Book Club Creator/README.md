@@ -118,7 +118,7 @@ A working system with a recommendation engine and dynamic clustering for book cl
 
 Please mark the tasks as completed by checking the boxes.
 
-- [o] **Phase 1: Define Project Scope and Goals**  
+- [x] **Phase 1: Define Project Scope and Goals**  
   - Define system requirements and features.
   - Set clear goals for the project.
   
