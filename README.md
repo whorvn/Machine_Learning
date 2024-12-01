@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine Learning and Data Science Journey 🚀
 
 Welcome to my repository! This is where I document my learning progress, share projects, and explore the fascinating world of **Machine Learning** and **Data Science**. 
@@ -44,5 +43,3 @@ You can find me on:
 **Note**: This repository is a work in progress, just like my journey in the field. Stay tuned for exciting updates!
 
 =======
-# Machine_LearningGGG
->>>>>>> 8162b9ac5109082130dc66f5a4a35e6ca2413e20
