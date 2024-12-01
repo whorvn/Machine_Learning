@@ -9,7 +9,7 @@ I’m a passionate learner with a background in **Chemical Engineering**, diving
 This repository is a growing collection of my:
 - **Learning Progress**: Concepts and techniques I’ve explored and practiced.
 - **Projects**: Hands-on implementations of algorithms, models, and data science applications.
-- **Creative Experiments**: Unique project ideas that go beyond the conventional, aiming to stand out and make a difference
+- **Creative Experiments**: Unique project ideas that go beyond the conventional, aiming to stand out and make a difference.
 
 ## Current Projects
 I am currently focusing on:
