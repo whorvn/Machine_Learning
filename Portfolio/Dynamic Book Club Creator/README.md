@@ -170,12 +170,7 @@ Please mark the tasks as completed by checking the boxes.
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -am 'Add new feature'`).
-4. Push to your branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+Contributions are welcome! If you'd like to contribute to this project, please contact with me first
 
 ---
 

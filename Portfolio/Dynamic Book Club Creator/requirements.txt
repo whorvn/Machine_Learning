@@ -1,0 +1,11 @@
+from flask import Flask, render_template, request, jsonify
+from flasgger import Swagger
+import google.generativeai as genai
+import json
+
+@app.route('/user_books', methods=['POST'])
+def user_books():
+    user_id = request.form['user_id']
+    
+    user_books = genai.user_books(user_id, user_name, user_email)
+    return jsonify(user_books)
